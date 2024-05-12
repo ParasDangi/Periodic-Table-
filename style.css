@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/922/313/191/abstract-abstraction-biology-chemistry-wallpaper-preview.jpg");
+    color: rgb(10, 194, 154);
+    font-family: Ink Free;
+}
+
+img {
+    width: 1360px;
+    height: 720px;
+    filter: drop-shadow(-12px 10px 8px rgb(10, 217, 231));
+    opacity: 0.86;
+}
+
+img:hover {
+    cursor: not-allowed;
+}
