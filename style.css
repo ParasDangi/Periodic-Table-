@@ -7,8 +7,7 @@ body {
 img {
     width: 1360px;
     height: 720px;
-    filter: drop-shadow(-12px 10px 8px rgb(10, 217, 231));
-    opacity: 0.86;
+    opacity: 0.88;
 }
 
 img:hover {
